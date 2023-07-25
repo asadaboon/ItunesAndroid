@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Itunes</string>
+    <string name="app_version">V 1.0.0</string>
+    <string name="search_music">Search song</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="music_is_playing"> is playing</string>
+
+</resources>
